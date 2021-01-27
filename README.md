@@ -1,4 +1,4 @@
-# UASWeb
+# UAS Pengembangan Aplikasi Web
 
 ## Credit: Ferdy Hasan Asyari Isma
 
